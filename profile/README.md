@@ -6,6 +6,9 @@
 NetSec Team is a group of hackers dedicated to teaching ethical hacking and computer science.
 
 ## Repositories
+### [hacking-books](https://github.com/NetSecTeam/hacking-books)
+Hacking books covering various topics, free to download
+
 ### [PyPhisher](https://github.com/NetSecTeam/PyPhisher)
 Generate phishing websites that steal user data
 
