@@ -30,8 +30,5 @@ Extracts phone numbers from dial sounds
 ### [Osintgram](https://github.com/NetSecTeam/Osintgram)
 Quickly navigate through public Instagram accounts
 
-### [holehe](https://github.com/NetSecTeam/holehe)
-Search for websites an email address is registered to
-
 ### [social-engineer-toolkit](https://github.com/NetSecTeam/social-engineer-toolkit)
 Collection of many industry-standard hacking tools
