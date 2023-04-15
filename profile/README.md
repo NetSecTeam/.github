@@ -38,3 +38,6 @@ Extensive index of multiple tools that can help with many things related to comp
 
 ### [holehe](https://github.com/raidOffensiveTechnology/holehe)
 Searches for websites that a specific email is registered to. (To a certain extent)
+
+### [ignorant](https://github.com/raidOffensiveTechnology/ignorant)
+See if phone numbers are registered to Amazon, Snapchat, or Instagram
