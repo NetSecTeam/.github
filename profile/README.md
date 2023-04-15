@@ -41,3 +41,6 @@ Searches for websites that a specific email is registered to. (To a certain exte
 
 ### [ignorant](https://github.com/raidOffensiveTechnology/ignorant)
 See if phone numbers are registered to Amazon, Snapchat, or Instagram
+
+### [awesome-osint](https://github.com/raidOffensiveTechnology/awesome-osint)
+A curated list of OSINT tools
