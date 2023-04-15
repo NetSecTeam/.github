@@ -32,3 +32,9 @@ Quickly navigate through public Instagram accounts
 
 ### [social-engineer-toolkit](https://github.com/NetSecTeam/social-engineer-toolkit)
 Collection of many industry-standard hacking tools
+
+### [the-book-of-secret-knowledge](https://github.com/raidOffensiveTechnology/the-book-of-secret-knowledge)
+Extensive index of multiple tools that can help with many things related to computers
+
+### [holehe](https://github.com/raidOffensiveTechnology/holehe)
+Searches for websites that a specific email is registered to. (To a certain extent)
